@@ -2,6 +2,7 @@
 # interface : get_news
 
 def get_news_rest_api(api):
+    # Scrape news from API
     return news 
 
 def get_news():
